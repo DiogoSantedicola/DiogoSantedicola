@@ -17,6 +17,6 @@
    <img align="center" alt="Diogo-J" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    
    ##
-![snake gif](https://github.com/DiogoSantedicola/DiogoSantedicola/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/DiogoSantedicola/Diogo-Santedicola/blob/output/github-contribution-grid-snake.svg)
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=DiogoSantedicola&repo=DiogoSantedicola&theme=react)](https://github.com/DiogoSantedicola/DiogoSantedicola)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Diogo-Santedicola&repo=Diogo-Santedicola&theme=react)](https://github.com/Diogo-Santedicola/Diogo-Santedicola)
