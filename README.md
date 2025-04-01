@@ -17,7 +17,6 @@
    <img align="center" alt="Diogo-J" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    
    ##
-</div>
+![snake gif](https://github.com/DiogoSantedicola/DiogoSantedicola/blob/output/github-contribution-grid-snake.svg)
 
-<div> 
-</div>
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=DiogoSantedicola&repo=DiogoSantedicola&theme=react)](https://github.com/DiogoSantedicola/DiogoSantedicola)
