@@ -1,14 +1,16 @@
 ## Olá! Eu sou Diogo Santedicola
 
 - 🔭 Atualmente Cursando Ciência Da Computação
-- 🌱 Estudando Python e Java
-- 📫 Contate-me no email: diogossantedicola@gmail.com
-- 📕 Apaixonado em aprender
+- 📌 Apaixonado por tecnologia, back-end e soluções eficientes.
+- 💻 Atualmente estudando Python e Java, com foco no desenvolvimento back-end.
+- 📩 Vamos trocar ideias? Entre em contato: diogossantedicola@gmail.com
+- 🌱 Em constante evolução → Rumo ao próximo nível!
 
 
 <div>
   <a href="https//:github.com/DiogoSantedicola">
-  <img height= "180em" src= "https://github-readme-stats.vercel.app/api?username=DiogoSantedicola&theme=dark&show_icons=true"/>
+  <img height= "180em" src= "https://github-readme-stats.vercel.app/api?username=DiogoSantedicola&theme=midnight-purple&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoSantedicola&layout=compact&langs_count=6&theme=midnight-purple"/>  
 </div>
 
  <div style="display: inline_block"><br>
