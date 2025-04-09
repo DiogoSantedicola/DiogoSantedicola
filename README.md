@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/683e9c25-ff43-4e06-8be1-df717d361784" alt="diogop github" style="max-width: 100%; height: auto; object-fit: cover;">
+</p>
+
+
 ## Olá! Eu sou Diogo Santedicola
 
 - 🔭 Atualmente Cursando Ciência Da Computação
